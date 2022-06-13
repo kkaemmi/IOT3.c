@@ -1,2 +1,2 @@
-# IOT3.c
-c언어
+# IOT3
+jupyter
